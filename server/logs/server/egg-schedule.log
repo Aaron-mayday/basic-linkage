@@ -1,0 +1,111 @@
+2022-06-07 19:07:39,845 INFO 15236 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33740157ms at 2022-06-08 04:30:00.002
+2022-06-07 19:07:39,845 INFO 15236 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17540155ms at 2022-06-08 00:00:00.000
+2022-06-07 19:07:39,846 INFO 15236 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17541155ms at 2022-06-08 00:00:01.001
+2022-06-07 19:07:39,395 INFO 4120 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 19:07:39,395 INFO 4120 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 19:07:39,395 INFO 4120 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 19:14:07,733 INFO 16288 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33352270ms at 2022-06-08 04:30:00.003
+2022-06-07 19:14:07,734 INFO 16288 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17152267ms at 2022-06-08 00:00:00.001
+2022-06-07 19:14:07,734 INFO 16288 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17153266ms at 2022-06-08 00:00:01.000
+2022-06-07 19:14:07,351 INFO 9464 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 19:14:07,351 INFO 9464 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 19:14:07,352 INFO 9464 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 19:18:58,906 INFO 14656 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 19:18:58,906 INFO 14656 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 19:18:58,906 INFO 14656 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 20:56:22,863 INFO 9480 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 27217139ms at 2022-06-08 04:30:00.002
+2022-06-07 20:56:22,864 INFO 9480 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 11017137ms at 2022-06-08 00:00:00.000
+2022-06-07 20:56:22,864 INFO 9480 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 11018136ms at 2022-06-08 00:00:01.000
+2022-06-07 20:56:22,448 INFO 12644 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 20:56:22,448 INFO 12644 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 20:56:22,448 INFO 12644 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 20:59:50,934 INFO 14268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 20:59:50,934 INFO 14268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 20:59:50,934 INFO 14268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:00:12,644 INFO 7196 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:00:12,644 INFO 7196 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:00:12,644 INFO 7196 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:06:25,360 INFO 7268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:06:25,360 INFO 7268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:06:25,360 INFO 7268 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:06:59,875 INFO 17736 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:06:59,875 INFO 17736 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:06:59,875 INFO 17736 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:07:54,110 INFO 13568 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:07:54,110 INFO 13568 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:07:54,110 INFO 13568 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:08:30,205 INFO 4100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:08:30,205 INFO 4100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:08:30,205 INFO 4100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:08:44,002 INFO 3544 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:08:44,002 INFO 3544 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:08:44,002 INFO 3544 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:08:52,177 INFO 12476 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:08:52,177 INFO 12476 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:08:52,177 INFO 12476 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:09:34,356 INFO 1276 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:09:34,356 INFO 1276 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:09:34,356 INFO 1276 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-07 21:13:58,274 INFO 1556 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-07 21:13:58,274 INFO 1556 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-07 21:13:58,274 INFO 1556 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:46:39,723 INFO 11792 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 27800279ms at 2022-06-09 04:30:00.002
+2022-06-08 20:46:39,724 INFO 11792 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 11600276ms at 2022-06-09 00:00:00.000
+2022-06-08 20:46:39,724 INFO 11792 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 11601276ms at 2022-06-09 00:00:01.000
+2022-06-08 20:46:39,232 INFO 17212 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:46:39,232 INFO 17212 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:46:39,232 INFO 17212 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:49:51,219 INFO 5188 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:49:51,219 INFO 5188 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:49:51,219 INFO 5188 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:52:17,020 INFO 13944 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:52:17,020 INFO 13944 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:52:17,020 INFO 13944 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:54:34,092 INFO 12848 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:54:34,092 INFO 12848 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:54:34,093 INFO 12848 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:55:18,123 INFO 8916 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:55:18,123 INFO 8916 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:55:18,123 INFO 8916 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:55:37,780 INFO 11132 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:55:37,780 INFO 11132 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:55:37,780 INFO 11132 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:57:59,419 INFO 4856 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:57:59,419 INFO 4856 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:57:59,419 INFO 4856 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 20:59:51,176 INFO 10056 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 27008826ms at 2022-06-09 04:30:00.002
+2022-06-08 20:59:51,177 INFO 10056 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 10808824ms at 2022-06-09 00:00:00.000
+2022-06-08 20:59:51,177 INFO 10056 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10809823ms at 2022-06-09 00:00:01.000
+2022-06-08 20:59:50,741 INFO 18388 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 20:59:50,742 INFO 18388 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 20:59:50,742 INFO 18388 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 21:01:48,752 INFO 8344 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 21:01:48,752 INFO 8344 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 21:01:48,752 INFO 8344 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 21:01:58,275 INFO 4860 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 21:01:58,275 INFO 4860 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 21:01:58,275 INFO 4860 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 21:02:49,811 INFO 15000 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 21:02:49,811 INFO 15000 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 21:02:49,811 INFO 15000 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 21:03:31,673 INFO 4908 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 21:03:31,673 INFO 4908 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 21:03:31,673 INFO 4908 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 21:05:10,730 INFO 10968 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 21:05:10,730 INFO 10968 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 21:05:10,730 INFO 10968 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 22:08:34,696 INFO 5280 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 22885306ms at 2022-06-09 04:30:00.002
+2022-06-08 22:08:34,696 INFO 5280 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 6685304ms at 2022-06-09 00:00:00.000
+2022-06-08 22:08:34,697 INFO 5280 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 6686304ms at 2022-06-09 00:00:01.001
+2022-06-08 22:08:34,289 INFO 15304 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 22:08:34,289 INFO 15304 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 22:08:34,289 INFO 15304 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 22:10:43,914 INFO 4300 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 22:10:43,914 INFO 4300 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 22:10:43,914 INFO 4300 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-06-08 22:11:28,689 INFO 8964 [Timer] D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 22711314ms at 2022-06-09 04:30:00.003
+2022-06-08 22:11:28,689 INFO 8964 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 6511311ms at 2022-06-09 00:00:00.000
+2022-06-08 22:11:28,689 INFO 8964 [Timer] D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 6512311ms at 2022-06-09 00:00:01.000
+2022-06-08 22:11:28,223 INFO 12100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-06-08 22:11:28,223 INFO 12100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-06-08 22:11:28,223 INFO 12100 [egg-schedule]: register schedule D:\webtest\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
